@@ -1,8 +1,8 @@
 class Gallium < Formula
   desc "Read-only Google Tag Manager container analysis CLI"
   homepage "https://github.com/tyssejc/gallium"
-  url "https://github.com/tyssejc/gallium/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "f77cea7f4912c4c2414fbf98b0eddf516e6c15e76eb8b963856921bca47ed73e"
+  url "https://github.com/tyssejc/gallium/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "7b555628e0c9f04b4bb0bbd3d3df2784c498bcee6a1a935eff72c0cc6389ad8c"
   license "MIT"
   head "https://github.com/tyssejc/gallium.git", branch: "main"
 
